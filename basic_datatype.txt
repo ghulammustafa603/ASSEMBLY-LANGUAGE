@@ -1,0 +1,12 @@
+datatype varname value
+int a =5;
+
+varName datatype value
+a db '1' 
+
+
+
+datatypes
+db = 8 bit
+dw = 16 bit
+dd = 32 bit
